@@ -1,0 +1,35 @@
+{
+  "name": "pertemuan-03-nov-inayayeltama",
+  "version": "1.0.0",
+  "description": "Project Node.js Express dengan MongoDB untuk pertemuan 03 November - Inaya Yeltama",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inayaYeltama/PERTEMUAN-03-NOV-INAYAYELTAMA.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "nodejs",
+    "inayayeltama"
+  ],
+  "author": "Inaya Yeltama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inayaYeltama/PERTEMUAN-03-NOV-INAYAYELTAMA/issues"
+  },
+  "homepage": "https://github.com/inayaYeltama/PERTEMUAN-03-NOV-INAYAYELTAMA#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
